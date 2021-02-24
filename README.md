@@ -1,4 +1,10 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+## My information
+
+Name: Ruichen Li, PID: A15896234
+
+## Partner's information
+
+Name: Shunkai Yu, PID: A15660186
+
