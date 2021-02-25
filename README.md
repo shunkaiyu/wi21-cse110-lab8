@@ -1,10 +1,8 @@
 # Lab8
 
-## My information
-
+## Information(we did this lab in pair)
+Name: Shunkai Yu, PID: A15660186
 Name: Ruichen Li, PID: A15896234
 
-## Partner's information
 
-Name: Shunkai Yu, PID: A15660186
 
